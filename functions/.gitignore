@@ -1,0 +1,9 @@
+node_modules/
+*.local
+
+index.js
+splitEpubIntoSections.js
+
+firebaseConfig.js
+
+.env
